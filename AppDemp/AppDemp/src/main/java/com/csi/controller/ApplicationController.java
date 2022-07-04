@@ -34,5 +34,12 @@ public class ApplicationController {
 		return "Welcome in Pune";
 		
 	}
+	
+	@GetMapping("/Address5")
+	public String getAddress5() {
+		
+		return "Welcome in Pune";
+		
+	}
 
 }
