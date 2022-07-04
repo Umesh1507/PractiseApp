@@ -35,11 +35,6 @@ public class ApplicationController1 {
 		
 	}
 	
-	@GetMapping("/Address15")
-	public String getAddress5() {
-		
-		return "Bijlinagar chinchwad";
-		
-	}
+	
 
 }
