@@ -11,7 +11,7 @@ public class ApplicationController1 {
 	@GetMapping("/service")
 	public String getService() {
 		
-		return "Welcome in my company";
+		return "Mobile service Application";
 		
 	}
 	
